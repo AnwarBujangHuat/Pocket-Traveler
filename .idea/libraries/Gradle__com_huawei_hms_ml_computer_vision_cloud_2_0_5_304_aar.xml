@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:ml-computer-vision-cloud:2.0.5.304@aar">
+    <CLASSES>
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d4c09ecdbb3a8449525b6a11baad3e99/transformed/jetified-ml-computer-vision-cloud-2.0.5.304/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d4c09ecdbb3a8449525b6a11baad3e99/transformed/jetified-ml-computer-vision-cloud-2.0.5.304/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d4c09ecdbb3a8449525b6a11baad3e99/transformed/jetified-ml-computer-vision-cloud-2.0.5.304/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-vision-cloud/2.0.5.304/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-vision-cloud-2.0.5.304-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-vision-cloud/2.0.5.304/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-vision-cloud-2.0.5.304-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
