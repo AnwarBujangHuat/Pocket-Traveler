@@ -1,5 +1,5 @@
-# Travel-Buddies
-Huawei App Travel Buddy is an App that help users when they are traveling,  NO MORE LANGUAGE BARRIER and NO MORE GETTING LOST, Huawei Travel Buddy is equip with all the tools you ever need.
+# Pocket-Traveler
+Pocket Traveler is an App that help users when they are traveling,  NO MORE LANGUAGE BARRIER and NO MORE GETTING LOST, Huawei Travel Buddy is equip with all the tools you ever need.
  Equip with Huawei Kits such as ML Kit, Awareness kit, Location Kit and Map Kit. Users will have no problem traveling with this App by their side.
 1. Users can translate from one language to another. 
 2. Equip with Text-To-Speech function to help users pronounce the words 
@@ -9,9 +9,15 @@ Huawei App Travel Buddy is an App that help users when they are traveling,  NO M
 6. View the World and what is around you using the Huawei Map Kit
 
 
-https://user-images.githubusercontent.com/67759970/139363089-b89e13f5-1527-4b68-9821-c5f55a099199.mp4
 
 
 
-https://user-images.githubusercontent.com/67759970/139363112-348bfa56-4c54-4ad4-9e01-39cf7b6a6679.mp4
+
+
+
+https://user-images.githubusercontent.com/67759970/139799648-08874727-d08a-4697-afa2-252a0bafdf99.mp4
+
+
+
+https://user-images.githubusercontent.com/67759970/139799654-e3a5ae59-6458-468b-8634-da2d2363936b.mp4
 
