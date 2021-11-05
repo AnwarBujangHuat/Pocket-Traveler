@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.media:media:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/9302eccf07188342d6adf1051991da6e/transformed/media-1.0.0/annotations.zip!/" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/e71a4eba8f2d348ba8bafc78055aab83/transformed/media-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/9302eccf07188342d6adf1051991da6e/transformed/media-1.0.0/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/9302eccf07188342d6adf1051991da6e/transformed/media-1.0.0/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/9302eccf07188342d6adf1051991da6e/transformed/media-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/e71a4eba8f2d348ba8bafc78055aab83/transformed/media-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/e71a4eba8f2d348ba8bafc78055aab83/transformed/media-1.0.0/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/e71a4eba8f2d348ba8bafc78055aab83/transformed/media-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

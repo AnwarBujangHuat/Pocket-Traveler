@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.customview:customview:1.1.0@aar">
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/74ed25ad95f90c19c6c5f6c42b15765d/transformed/customview-1.1.0/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/74ed25ad95f90c19c6c5f6c42b15765d/transformed/customview-1.1.0/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/74ed25ad95f90c19c6c5f6c42b15765d/transformed/customview-1.1.0/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/641e70f9e10c926c77385f16a2833f49/transformed/customview-1.1.0/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/641e70f9e10c926c77385f16a2833f49/transformed/customview-1.1.0/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/641e70f9e10c926c77385f16a2833f49/transformed/customview-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

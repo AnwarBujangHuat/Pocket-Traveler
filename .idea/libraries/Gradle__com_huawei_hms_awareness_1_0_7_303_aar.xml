@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.huawei.hms:awareness:1.0.7.303@aar">
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/f641448606eb34e76ddf9d7dfc0dc66e/transformed/jetified-awareness-1.0.7.303/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/f641448606eb34e76ddf9d7dfc0dc66e/transformed/jetified-awareness-1.0.7.303/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/f641448606eb34e76ddf9d7dfc0dc66e/transformed/jetified-awareness-1.0.7.303/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d4424f737a5f46b9f0637ca63bbf9e6c/transformed/jetified-awareness-1.0.7.303/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d4424f737a5f46b9f0637ca63bbf9e6c/transformed/jetified-awareness-1.0.7.303/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d4424f737a5f46b9f0637ca63bbf9e6c/transformed/jetified-awareness-1.0.7.303/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/modules-2/files-2.1/com.huawei.hms/awareness/1.0.7.303/da39a3ee5e6b4b0d3255bfef95601890afd80709/awareness-1.0.7.303-javadoc.jar!/" />

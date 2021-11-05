@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-tasks:17.0.0@aar">
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/07cfe3f3a3cefb96f0c15d1fd374b452/transformed/jetified-play-services-tasks-17.0.0/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/07cfe3f3a3cefb96f0c15d1fd374b452/transformed/jetified-play-services-tasks-17.0.0/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/07cfe3f3a3cefb96f0c15d1fd374b452/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d7b0c900a9d2e4383ff2344cb43c2b29/transformed/jetified-play-services-tasks-17.0.0/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d7b0c900a9d2e4383ff2344cb43c2b29/transformed/jetified-play-services-tasks-17.0.0/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d7b0c900a9d2e4383ff2344cb43c2b29/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

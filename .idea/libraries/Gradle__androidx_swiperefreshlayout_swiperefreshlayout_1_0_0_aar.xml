@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/71ba6e2c01e67addc8560c061142b00f/transformed/swiperefreshlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/30d6b35cc7c36a64919d79b746e31c5b/transformed/swiperefreshlayout-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/71ba6e2c01e67addc8560c061142b00f/transformed/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/71ba6e2c01e67addc8560c061142b00f/transformed/swiperefreshlayout-1.0.0/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/71ba6e2c01e67addc8560c061142b00f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/30d6b35cc7c36a64919d79b746e31c5b/transformed/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/30d6b35cc7c36a64919d79b746e31c5b/transformed/swiperefreshlayout-1.0.0/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/30d6b35cc7c36a64919d79b746e31c5b/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

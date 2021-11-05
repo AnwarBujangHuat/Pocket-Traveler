@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.huawei.hms:ml-computer-voice-tts-inner:2.2.0.300@aar">
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/8b81f3390bb138e1e2220a3d4e75f1ee/transformed/jetified-ml-computer-voice-tts-inner-2.2.0.300/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/8b81f3390bb138e1e2220a3d4e75f1ee/transformed/jetified-ml-computer-voice-tts-inner-2.2.0.300/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/8b81f3390bb138e1e2220a3d4e75f1ee/transformed/jetified-ml-computer-voice-tts-inner-2.2.0.300/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/4cd271af0c190922a14d25ecfb422c4e/transformed/jetified-ml-computer-voice-tts-inner-2.2.0.300/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/4cd271af0c190922a14d25ecfb422c4e/transformed/jetified-ml-computer-voice-tts-inner-2.2.0.300/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/4cd271af0c190922a14d25ecfb422c4e/transformed/jetified-ml-computer-voice-tts-inner-2.2.0.300/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-voice-tts-inner/2.2.0.300/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-voice-tts-inner-2.2.0.300-javadoc.jar!/" />

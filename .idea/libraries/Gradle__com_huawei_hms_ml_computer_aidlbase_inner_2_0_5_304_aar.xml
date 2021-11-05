@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.huawei.hms:ml-computer-aidlbase-inner:2.0.5.304@aar">
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/e8e78d6efb12a0267ee03ee5fb6cc9da/transformed/jetified-ml-computer-aidlbase-inner-2.0.5.304/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/e8e78d6efb12a0267ee03ee5fb6cc9da/transformed/jetified-ml-computer-aidlbase-inner-2.0.5.304/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/e8e78d6efb12a0267ee03ee5fb6cc9da/transformed/jetified-ml-computer-aidlbase-inner-2.0.5.304/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/4e4d57255cc0837c666b5dfd7a298c31/transformed/jetified-ml-computer-aidlbase-inner-2.0.5.304/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/4e4d57255cc0837c666b5dfd7a298c31/transformed/jetified-ml-computer-aidlbase-inner-2.0.5.304/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/4e4d57255cc0837c666b5dfd7a298c31/transformed/jetified-ml-computer-aidlbase-inner-2.0.5.304/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-aidlbase-inner/2.0.5.304/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-aidlbase-inner-2.0.5.304-javadoc.jar!/" />

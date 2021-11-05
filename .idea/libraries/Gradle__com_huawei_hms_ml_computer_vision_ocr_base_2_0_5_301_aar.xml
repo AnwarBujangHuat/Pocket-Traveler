@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.huawei.hms:ml-computer-vision-ocr-base:2.0.5.301@aar">
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/22e4ec12751d51757dc846cbd5dd0b67/transformed/jetified-ml-computer-vision-ocr-base-2.0.5.301/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/22e4ec12751d51757dc846cbd5dd0b67/transformed/jetified-ml-computer-vision-ocr-base-2.0.5.301/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/22e4ec12751d51757dc846cbd5dd0b67/transformed/jetified-ml-computer-vision-ocr-base-2.0.5.301/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/86cf9fc338c36dfc3d52abc869d4bc5f/transformed/jetified-ml-computer-vision-ocr-base-2.0.5.301/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/86cf9fc338c36dfc3d52abc869d4bc5f/transformed/jetified-ml-computer-vision-ocr-base-2.0.5.301/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/86cf9fc338c36dfc3d52abc869d4bc5f/transformed/jetified-ml-computer-vision-ocr-base-2.0.5.301/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-vision-ocr-base/2.0.5.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-vision-ocr-base-2.0.5.301-javadoc.jar!/" />

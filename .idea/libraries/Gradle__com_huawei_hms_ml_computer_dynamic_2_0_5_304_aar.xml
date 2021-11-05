@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.huawei.hms:ml-computer-dynamic:2.0.5.304@aar">
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/438d7add7eeef2e71f00fa4909399196/transformed/jetified-ml-computer-dynamic-2.0.5.304/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/438d7add7eeef2e71f00fa4909399196/transformed/jetified-ml-computer-dynamic-2.0.5.304/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/438d7add7eeef2e71f00fa4909399196/transformed/jetified-ml-computer-dynamic-2.0.5.304/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/3f5dd33b44cbe9a775c80d64e92a1720/transformed/jetified-ml-computer-dynamic-2.0.5.304/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/3f5dd33b44cbe9a775c80d64e92a1720/transformed/jetified-ml-computer-dynamic-2.0.5.304/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/3f5dd33b44cbe9a775c80d64e92a1720/transformed/jetified-ml-computer-dynamic-2.0.5.304/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-dynamic/2.0.5.304/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-dynamic-2.0.5.304-javadoc.jar!/" />

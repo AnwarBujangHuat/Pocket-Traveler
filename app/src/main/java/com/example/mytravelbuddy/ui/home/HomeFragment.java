@@ -7,6 +7,7 @@ import static com.example.mytravelbuddy.R.mipmap.ic_sun;
 import static com.example.mytravelbuddy.R.mipmap.ic_thunder;
 
 import android.Manifest;
+import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Context;
 import android.content.Intent;
@@ -157,20 +158,20 @@ public class HomeFragment extends Fragment {
             @Override
             public void onClick(View v) {//
 
-                // Set TextToSpeech reading end detection event listener
-                TTS.setOnUtteranceProgressListener (new UtteranceProgressListener () {
-                    @Override
-                    public void onDone (String utteranceId) {
-                        Toast.makeText(getContext(), "Speech", Toast.LENGTH_SHORT).show();
-
-                    }
-                    @Override
-                    public void onError (String utteranceId) {
-                        Toast.makeText(getContext(), "There's an Error", Toast.LENGTH_SHORT).show();
-                    }
-                    @Override
-                    public void onStart (String utteranceId) {}
-                });
+//                // Set TextToSpeech reading end detection event listener
+//                TTS.setOnUtteranceProgressListener (new UtteranceProgressListener () {
+//                    @Override
+//                    public void onDone (String utteranceId) {
+//                        Toast.makeText(getContext(), "Speech", Toast.LENGTH_SHORT).show();
+//
+//                    }
+//                    @Override
+//                    public void onError (String utteranceId) {
+//                        Toast.makeText(getContext(), "There's an Error", Toast.LENGTH_SHORT).show();
+//                    }
+//                    @Override
+//                    public void onStart (String utteranceId) {}
+//                });
 
                 TTS.speak (texttoSpeech, this.hashCode () + "",language);
                 Toast.makeText(getContext(), language, Toast.LENGTH_SHORT).show();
@@ -183,20 +184,20 @@ public class HomeFragment extends Fragment {
             @Override
             public void onClick(View v) {//
 
-                // Set TextToSpeech reading end detection event listener
-                TTS.setOnUtteranceProgressListener (new UtteranceProgressListener () {
-                    @Override
-                    public void onDone (String utteranceId) {
-                        Toast.makeText(getContext(), "Speech", Toast.LENGTH_SHORT).show();
-
-                    }
-                    @Override
-                    public void onError (String utteranceId) {
-                        Toast.makeText(getContext(), "There's an Error", Toast.LENGTH_SHORT).show();
-                    }
-                    @Override
-                    public void onStart (String utteranceId) {}
-                });
+//                // Set TextToSpeech reading end detection event listener
+//                TTS.setOnUtteranceProgressListener (new UtteranceProgressListener () {
+//                    @Override
+//                    public void onDone (String utteranceId) {
+//                        Toast.makeText(getContext(), "Speech", Toast.LENGTH_SHORT).show();
+//
+//                    }
+//                    @Override
+//                    public void onError (String utteranceId) {
+//                        Toast.makeText(getContext(), "There's an Error", Toast.LENGTH_SHORT).show();
+//                    }
+//                    @Override
+//                    public void onStart (String utteranceId) {}
+//                });
 
                 TTS.speak (texttoSpeech2, this.hashCode () + "",languages2);
                 Toast.makeText(getContext(), languages2, Toast.LENGTH_SHORT).show();
@@ -210,7 +211,9 @@ public class HomeFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 ClipboardManager cm = (ClipboardManager)getContext().getSystemService(Context.CLIPBOARD_SERVICE);
-                cm.setText(texttoSpeech);
+//                cm.setText(texttoSpeech);
+                ClipData clip = ClipData.newPlainText("Copied: ", texttoSpeech);
+                cm.setPrimaryClip(clip);
                 Toast.makeText(getContext(), "Copied to clipboard", Toast.LENGTH_SHORT).show();
             }
         });
@@ -218,7 +221,10 @@ public class HomeFragment extends Fragment {
             @Override
             public void onClick(View view) {
                 ClipboardManager cm = (ClipboardManager)getContext().getSystemService(Context.CLIPBOARD_SERVICE);
-                cm.setText(texttoSpeech2);
+//                cm.setText(texttoSpeech2);
+                Toast.makeText(getContext(), "Copied to clipboard", Toast.LENGTH_SHORT).show();
+                ClipData clip = ClipData.newPlainText("Copied: ", texttoSpeech);
+                cm.setPrimaryClip(clip);
                 Toast.makeText(getContext(), "Copied to clipboard", Toast.LENGTH_SHORT).show();
             }
         });

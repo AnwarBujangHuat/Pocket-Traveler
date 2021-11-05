@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.huawei.hmf:tasks:1.4.1.300@aar">
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/534225372fd814d4e74af7d34e42d504/transformed/jetified-tasks-1.4.1.300/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/534225372fd814d4e74af7d34e42d504/transformed/jetified-tasks-1.4.1.300/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/534225372fd814d4e74af7d34e42d504/transformed/jetified-tasks-1.4.1.300/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/2376eaf55566eda04107ff66ba73a84e/transformed/jetified-tasks-1.4.1.300/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/2376eaf55566eda04107ff66ba73a84e/transformed/jetified-tasks-1.4.1.300/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/2376eaf55566eda04107ff66ba73a84e/transformed/jetified-tasks-1.4.1.300/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

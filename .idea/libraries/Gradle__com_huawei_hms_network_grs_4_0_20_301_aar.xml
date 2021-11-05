@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.huawei.hms:network-grs:4.0.20.301@aar">
     <CLASSES>
-      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/9e6cec482a4a32a8772f46136c2ccfd9/transformed/jetified-network-grs-4.0.20.301/jars/classes.jar!/" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/9e6cec482a4a32a8772f46136c2ccfd9/transformed/jetified-network-grs-4.0.20.301/res" />
-      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/9e6cec482a4a32a8772f46136c2ccfd9/transformed/jetified-network-grs-4.0.20.301/AndroidManifest.xml" />
+      <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d0a836c4da98e23296e00d8f403a3818/transformed/jetified-network-grs-4.0.20.301/jars/classes.jar!/" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d0a836c4da98e23296e00d8f403a3818/transformed/jetified-network-grs-4.0.20.301/res" />
+      <root url="file://D:/Edditing tools/Android Studio/Gradle/caches/transforms-3/d0a836c4da98e23296e00d8f403a3818/transformed/jetified-network-grs-4.0.20.301/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/Edditing tools/Android Studio/Gradle/caches/modules-2/files-2.1/com.huawei.hms/network-grs/4.0.20.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/network-grs-4.0.20.301-javadoc.jar!/" />
