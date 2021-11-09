@@ -1,7 +1,6 @@
-Pocket Traveler is an App that help users when they are traveling, 
-NO MORE LANGUAGE BARRIER and NO MORE GETTING LOST,
-Pocket Traveler is equip with all the tools you ever need.
-Users will have no problem traveling with this App by their side.
+Pocket Traveler is an App that helps users when they are traveling, NO MORE LANGUAGE BARRIER and NO MORE GETTING LOST, Pocket Traveler is equipped with all the tools you ever need. Users will have no problem traveling with this App by their side.
+https://appgallery.huawei.com/app/C104790083
+
 1. Users can translate from one language to another.
 2. Equip with Text-To-Speech function to help users pronounce the words
 3. Equip with Awareness Kit so users can always be inform on what happen around them (Time, Temperature, Weather, Current Location, Wind Speed, Humidity)
