@@ -68,7 +68,7 @@ public class Map_search extends Fragment implements OnMapReadyCallback {
         binding = FragmentMapsearchBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 //        startActivity(new Intent(getActivity(), Map_Activity.class));
-        MapsInitializer.setApiKey("CwEAAAAA87ygm62CxaYAnCnmLDj8LNdgxZ9Gt+/zTKg5oQDMsbJtWX/zNvzvhQN6gyEZKOWnoEQnrVwrDpT57bq0EZelxL3A9BE=");
+        MapsInitializer.setApiKey("");
 
         mMapView = root.findViewById(R.id.mapview_mapviewdemo);
 
