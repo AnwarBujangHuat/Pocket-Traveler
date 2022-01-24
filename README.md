@@ -19,5 +19,3 @@ https://user-images.githubusercontent.com/67759970/139799648-08874727-d08a-4697-
 
 
 https://user-images.githubusercontent.com/67759970/139799654-e3a5ae59-6458-468b-8634-da2d2363936b.mp4
-
-test jira
